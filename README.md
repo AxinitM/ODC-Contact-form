@@ -4,12 +4,12 @@ There is a contact form. The page was created as part of the [Front End Develope
 
 ## Table of contents
 
--[Screenshot](#screenshot)
--[Links](#links)
--[The task and my comments](#the-task-and-my-comments)
--[Built with](#built-with)
--[What I learned](#what-i-learned)
--[Author](#author)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [The task and my comments](#the-task-and-my-comments)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Author](#author)
 
 ### Screenshot
 
